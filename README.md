@@ -28,13 +28,6 @@ I'm a passionate developer with a love for creating innovative solutions. I enjo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmulika&layout=compact&theme=radical)
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/mmulika/project1): Brief description of Project 1.
-- [Project 2](https://github.com/mmulika/project2): Brief description of Project 2.
-- [Project 3](https://github.com/mmulika/project3): Brief description of Project 3.
 
 ## Contact
 
